@@ -1,4 +1,4 @@
-#Jogo de Adivinhação
+JOGO DE ADIVINHAÇÃO
 
 Este é um jogo de adivinhação!
 
