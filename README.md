@@ -2,7 +2,7 @@ JOGO DE ADIVINHAÇÃO
 
 Este é um jogo de adivinhação!
 
-> Os números são sorteados de 0 a 200;
+> Os números são sorteados de 100 a 200;
 
 > Você tem três tentativas para acertar o número sorteado;
 
