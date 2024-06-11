@@ -1,4 +1,4 @@
-var numero = "";
+var numero = ""; 
 var i = 1;
 const tres = 3;
 
